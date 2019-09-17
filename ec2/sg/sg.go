@@ -1,5 +1,13 @@
 package main
 
+/* TODO:
+*  1. add update func
+*  2. add delete func
+*  3. add engress support
+*  4. support select sg
+*  5. name sg
+*/
+
 import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/awserr"
